@@ -11,4 +11,4 @@ I am working on an assignment as part of the all women's cohort of MIT's full (M
 
 **Licensing:**   Massachusetts Institute of Technology (MIT) (C)John Williams 2020. See LICENSE for more details.
 
-**Roapmap**  The road not yet travelled.  I hope to help him find a friend or a cherry or something .
+**Roadmap**  The road not yet traveled.  I hope to help him find a friend or a cherry.
